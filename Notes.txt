@@ -1,4 +1,5 @@
-# Messenger
+# Instant_Messenger_PHP
+
 The source code of the howCode Messenger tutorials.
 
 Original TUTs Here: http://www.youtube.com/howCode
@@ -6,3 +7,7 @@ Original TUTs Here: http://www.youtube.com/howCode
 Original Link https://github.com/howCodeORG/Messenger
 
 For Updated Download The Zip File
+
+My Update:
+
+https://github.com/jamieduk/Instant_Messenger_PHP
